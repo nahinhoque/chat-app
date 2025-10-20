@@ -36,10 +36,10 @@
   #### - Node.js (LTS) and npm or yarn
   #### - MongoDB Atlas cluster (or local MongoDB)
   #### - Git for version control
-  #### - Optional: Cloudinary for media hosting (or adapt to your storage)
+  #### - Optional: Cloudinary for media hosting
 
 
-#### Environment variables (examples; replace with real values):
+#### Environment variables 
 
 - ### Backend
   - #### PORT
@@ -53,8 +53,8 @@
 
 - ### Frontend
   - #### REACT_APP_BACKEND_URL
-  - #### VERCEL_ENV (if deploying via Vercel)
-  - #### Any API keys required by frontend (if applicable)
+  - #### VERCEL_ENV 
+  - #### Any API keys required by frontend 
  
 
 ### Quick Start
@@ -62,7 +62,7 @@
 
 - #### Create the React project (Vite):
   - #### npm create vite@latest
-- #### Rename to Client (or use your existing folder)
+- #### Rename to Client 
 - #### Install dependencies:
   - #### cd Client
   - #### npm install
@@ -110,7 +110,7 @@
 - #### Online status:
   - #### Emit login/logout events to update presence in real time
 - #### Media messages:
-  - #### Upload images/videos via Cloudinary (or your storage) and send media URLs in messages
+  - #### Upload images/videos via Cloudinary and send media URLs in messages
 - #### API routes:
   - #### GET /api/users
   - #### POST /api/auth/login
