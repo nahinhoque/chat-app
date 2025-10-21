@@ -1,6 +1,6 @@
 ## Real-Time Full Stack Chat Application (Chat-app)
 #### A real-time chat application built with MongoDB, Express, React, and Node.js.
-#### Messages are delivered instantly using Socket.io. Features signup/signin, real-time user online status, and media messaging. Client and server deployed with vercel.
+#### Messages are delivered instantly using Socket.io. Features signup/signin, real-time user online status, and media messaging. Client and server deployed with Vercel.
 
 ### Table of Contents
 - #### Purpose & Audience
